@@ -37,5 +37,5 @@ Git, Docker, déploiement cloud, intégration d’API, automatisation
 
 ## Contact
 Email : Aglanelom00mail@email.com  
-LinkedIn : [linkedin.com/in/votreprofil](https://www.linkedin.com/in/elomaglan/)  
-Portfolio : [votresite.com](https://aglan-portfolio.vercel.app/)
+LinkedIn : [linkedin.com/in/elomAglan](https://www.linkedin.com/in/elomaglan/)  
+Portfolio : [Portfolio.com](https://aglan-portfolio.vercel.app/)
